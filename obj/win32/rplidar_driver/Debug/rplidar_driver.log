@@ -1,0 +1,4 @@
+﻿  net_serial.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  rplidar_driver.vcxproj -> C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\\..\..\output\win32\Debug\rplidar_driver.lib

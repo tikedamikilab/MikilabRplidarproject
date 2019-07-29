@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\ultra_simple\main.cpp(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' の宣言を確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\ultra_simple\main.cpp(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' の宣言を確認してください
+  ultra_simple.vcxproj -> C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\\..\..\output\win32\Debug\ultra_simple.exe

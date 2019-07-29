@@ -1,0 +1,15 @@
+﻿  net_serial.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  timer.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  thread.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+  rplidar_driver.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\src\rplidar_driver.cpp(553): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\src\rplidar_driver.cpp(813): warning C4267: '初期化中': 'size_t' から '_u8' に変換しました。データが失われているかもしれません。
+  rplidar_driver.vcxproj -> C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\\..\..\output\win32\Release\rplidar_driver.lib

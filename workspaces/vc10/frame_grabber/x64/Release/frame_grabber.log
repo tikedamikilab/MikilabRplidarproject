@@ -1,0 +1,267 @@
+﻿  MainFrm.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: C++ 例外処理を使っていますが、アンワインド セマンティクスは有効にはなりません。/EHsc を指定してください。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\mainfrm.cpp(249): warning C4477: 'fprintf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'unsigned __int64' です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\mainfrm.cpp(249): note: 書式文字列に '%zd' を使用することをお勧めします
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\mainfrm.cpp(342): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(602): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(586): note: クラス テンプレート のメンバー関数 'BOOL WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::AddSimpleReBarBandCtrl(HWND,HWND,int,LPCTSTR,BOOL,int,BOOL)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(681): note: コンパイル対象の関数 テンプレート インスタンス化 'BOOL WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::AddSimpleReBarBandCtrl(HWND,HWND,int,LPCTSTR,BOOL,int,BOOL)' のリファレンスを確認してください
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(1279): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(991): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(989): note: クラス テンプレート のメンバー関数 'bool WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::PrepareChevronMenu(WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::_ChevronMenuInfo &)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(1255): note: コンパイル対象の関数 テンプレート インスタンス化 'bool WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::PrepareChevronMenu(WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::_ChevronMenuInfo &)' のリファレンスを確認してください
+  framegrabber.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: C++ 例外処理を使っていますが、アンワインド セマンティクスは有効にはなりません。/EHsc を指定してください。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(991): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(989): note: クラス テンプレート のメンバー関数 'bool WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::PrepareChevronMenu(WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::_ChevronMenuInfo &)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(1255): note: コンパイル対象の関数 テンプレート インスタンス化 'bool WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::PrepareChevronMenu(WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>::_ChevronMenuInfo &)' のリファレンスを確認してください
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlframe.h(1279): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CFrameWindowImplBase<ATL::CWindow,ATL::CFrameWinTraits>' のリファレンスを確認してください
+  scanView.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: C++ 例外処理を使っていますが、アンワインド セマンティクスは有効にはなりません。/EHsc を指定してください。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(141): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(226): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(234): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(252): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(282): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(283): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(531): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(159): warning C4101: 'txtBuffer': ローカル変数は 1 度も使われていません。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(727): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(728): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(771): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(771): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(775): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(775): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(778): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(778): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(782): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(782): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(783): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(783): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(784): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(784): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(785): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(785): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(786): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(786): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(788): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(788): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(789): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(789): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(790): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(790): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(791): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(791): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(792): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(792): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(793): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(793): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(795): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(795): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(796): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(796): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(797): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(797): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(798): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(798): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(799): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(799): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(800): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(800): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(802): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(802): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(803): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(803): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(804): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(804): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(805): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(805): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(806): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(806): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(807): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(807): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(809): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(809): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(810): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(810): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(811): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(811): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(812): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(812): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(813): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(813): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(814): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(814): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(816): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(816): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(817): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(817): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(818): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(818): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(819): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(819): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(820): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(820): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(821): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(821): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(823): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(823): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(824): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(824): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(825): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(825): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(826): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(826): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(827): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(827): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(828): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(828): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(830): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(830): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(831): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(831): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(832): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(832): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(833): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(833): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(834): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(834): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(835): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(835): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(838): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(838): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(839): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(839): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(852): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(852): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(853): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(853): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(854): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(854): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(855): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(855): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(856): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(856): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(857): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(857): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(858): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(858): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(859): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(859): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(860): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(860): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(861): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(861): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(862): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(862): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(863): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(863): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(864): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(864): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(865): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(865): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(866): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(866): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(867): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(867): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(868): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(868): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(869): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(869): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(870): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(870): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(871): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(871): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(872): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(872): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(873): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(873): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(874): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(874): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(876): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(876): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(877): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(877): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(878): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(878): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(879): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(879): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(881): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(881): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(882): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(882): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(883): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(883): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(884): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(884): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(892): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(892): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(893): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(893): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(894): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(894): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(895): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(895): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(896): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(896): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(897): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(897): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(898): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(898): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(900): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(900): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(901): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(901): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(902): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(902): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(903): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(903): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(905): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(905): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(906): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(906): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(907): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(907): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(908): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(908): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(909): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(909): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(911): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(911): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(912): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(912): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(913): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(913): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(914): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(914): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(915): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(915): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(919): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(919): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(920): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(920): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(921): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(921): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(922): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(922): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(923): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(923): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(966): warning C4244: '=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(967): warning C4244: '=': 'float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1122): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1123): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1125): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1126): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1224): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1225): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1430): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\scanview.cpp(1431): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  LogTermSetDlg.cpp
+  MoveObjRecieve.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: C++ 例外処理を使っていますが、アンワインド セマンティクスは有効にはなりません。/EHsc を指定してください。
+  ReadDataSet.cpp
+  コードを生成中...
+  rplidar_driver.lib(rplidar_driver.obj) : MSIL .netmodule または /GL を伴ってコンパイルされたモジュールが見つかりました。/LTCG を使用して再開始してください。リンカーのパフォーマンスを向上させるためには、コマンドラインに /LTCG を追加してください。
+  コード生成しています。
+  コード生成が終了しました。
+  frame_grabber.vcxproj -> C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\x64\Release\frame_grabber.exe

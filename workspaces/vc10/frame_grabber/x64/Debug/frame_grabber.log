@@ -1,0 +1,72 @@
+﻿  MoveArea.cpp
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atluser.h(1319): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atluser.h(1329): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlgdi.h(469): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlgdi.h(476): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlgdi.h(483): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlgdi.h(490): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlgdi.h(3682): warning C4838: 'LONG' から 'DWORD' への変換には縮小変換が必要です
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atldlgs.h(3208): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atldlgs.h(3230): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atldlgs.h(3291): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atldlgs.h(3306): warning C4302: '型キャスト': 'LPCTSTR' から 'WORD' へ切り詰めます。
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\sdk\include\rplidar_protocol.h(59): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(3270): warning C4838: 'int' から 'UINT_PTR' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(3267): note: クラス テンプレート のメンバー関数 'void WTL::CSortListViewImpl<T>::NotifyParentSortChanged(int,int)' のコンパイル中
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(3664): note: コンパイル対象の関数 テンプレート インスタンス化 'void WTL::CSortListViewImpl<T>::NotifyParentSortChanged(int,int)' のリファレンスを確認してください
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(3701): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CSortListViewImpl<T>' のリファレンスを確認してください
+          with
+          [
+              T=WTL::CSortListViewCtrl
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(3720): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CSortListViewCtrlImpl<WTL::CSortListViewCtrl,WTL::CListViewCtrl,WTL::CSortListViewCtrlTraits>' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(1081): warning C4838: 'int' から 'UINT_PTR' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(1076): note: クラス テンプレート のメンバー関数 'bool WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>::Navigate(void)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(1323): note: コンパイル対象の関数 テンプレート インスタンス化 'bool WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>::Navigate(void)' のリファレンスを確認してください
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlx.h(1820): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CHyperLinkImpl<WTL::CHyperLink,ATL::CWindow,ATL::CControlWinTraits>' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(2915): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(2908): note: クラス テンプレート のメンバー関数 'bool WTL::CCommandBarCtrlImpl<T,TBase,TWinTraits>::DisplayChevronMenu(void)' のコンパイル中
+          with
+          [
+              T=WTL::CMDICommandBarCtrl,
+              TBase=WTL::CCommandBarCtrlBase,
+              TWinTraits=ATL::CControlWinTraits
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(2068): note: コンパイル対象の関数 テンプレート インスタンス化 'bool WTL::CCommandBarCtrlImpl<T,TBase,TWinTraits>::DisplayChevronMenu(void)' のリファレンスを確認してください
+          with
+          [
+              T=WTL::CMDICommandBarCtrl,
+              TBase=WTL::CCommandBarCtrlBase,
+              TWinTraits=ATL::CControlWinTraits
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3269): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CCommandBarCtrlImpl<T,TBase,TWinTraits>' のリファレンスを確認してください
+          with
+          [
+              T=WTL::CMDICommandBarCtrl,
+              TBase=WTL::CCommandBarCtrlBase,
+              TWinTraits=ATL::CControlWinTraits
+          ]
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(4150): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3970): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3964): note: クラス テンプレート のメンバー関数 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::GetSystemSettings(void)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(1432): note: コンパイル対象の関数 テンプレート インスタンス化 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::GetSystemSettings(void)' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3910): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3860): note: クラス テンプレート のメンバー関数 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::_ProcessAllHookMessages(UINT,WPARAM,LPARAM)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3824): note: コンパイル対象の関数 テンプレート インスタンス化 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::_ProcessAllHookMessages(UINT,WPARAM,LPARAM)' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3839): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3833): note: クラス テンプレート のメンバー関数 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::UpdateRebarBandIdealSize(void)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3814): note: コンパイル対象の関数 テンプレート インスタンス化 'void WTL::CMDICommandBarCtrlImpl<WTL::CMDICommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::UpdateRebarBandIdealSize(void)' のリファレンスを確認してください
+c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(2935): warning C4838: 'int' から 'UINT' への変換には縮小変換が必要です
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(2933): note: クラス テンプレート のメンバー関数 'void WTL::CCommandBarCtrlImpl<WTL::CCommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::GetSystemSettings(void)' のコンパイル中
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(1432): note: コンパイル対象の関数 テンプレート インスタンス化 'void WTL::CCommandBarCtrlImpl<WTL::CCommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>::GetSystemSettings(void)' のリファレンスを確認してください
+  c:\users\tiked\onedrive\ドキュメント\三木研\iot班研究\rplidar\sdk\app\frame_grabber\ref\wtl\atlctrlw.h(3258): note: コンパイル対象の クラス テンプレート インスタンス化 'WTL::CCommandBarCtrlImpl<WTL::CCommandBarCtrl,WTL::CCommandBarCtrlBase,ATL::CControlWinTraits>' のリファレンスを確認してください
+  frame_grabber.vcxproj -> C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\x64\Debug\frame_grabber.exe

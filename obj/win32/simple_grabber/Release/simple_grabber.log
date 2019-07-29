@@ -1,0 +1,3 @@
+﻿LINK : warning LNK4001: オブジェクト ファイルが指定されていません。ライブラリを使用します。
+LINK : error LNK2001: 外部シンボル "_mainCRTStartup" は未解決です。
+C:\Users\tiked\OneDrive\ドキュメント\三木研\IoT班研究\RPLIDAR\sdk\workspaces\vc10\\..\..\output\win32\Release\simple_grabber.exe : fatal error LNK1120: 1 件の未解決の外部参照
